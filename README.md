@@ -1,2 +1,2 @@
-OK, I'm learning git....
+A first attempt at using GitHub from the command line.
 
